@@ -135,9 +135,9 @@ button:hover{
 
 #container{
     /* display: flex; */
-   width: 95%;
+   width: 97%;
    /* height:auto; */
-   /* border: 1px solid black; */
+   border: 1px solid black;
    margin:auto
    
 }
@@ -209,6 +209,8 @@ margin-top: 0px;
 
  .bodyline{
      display: flex;
+     width: 97%;
+     /* border: 1px solid black; */
  }
 .line1>h3{
     margin-bottom: 10px;
@@ -220,9 +222,10 @@ margin-top: 0px;
     font-family: cursive;
 }
 #topimg{
-    width:1150px;
+    width:95%;
     height:250px;
-    margin-left: 20px;
+    margin-left: 2.5%;
+    /* margin: auto; */
 }
 #btn6{
     height: 50px;
